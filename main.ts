@@ -1,5 +1,11 @@
+//                           CLASS-1
 
 console.log("Salam, World")
+// extension : JavaScript and TypeScript Nightly
+
+
+//                           CLASS-2
+
 
 
 //                             VARIABLES
