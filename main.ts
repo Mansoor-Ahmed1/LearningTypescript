@@ -19,13 +19,16 @@ console.log("Salam, World")
 // let greet="SalamBhaiya"         
 // let greet = "haha"
 
-
 // this will not throw error
 var greet="SalamBhaiya"
 var greet2 = "haha"
 
 // greet2=23 // Error: reassigned value must be of same type as that of initialized, in this case "string"
 console.log(greet2 , "Sahab")
+
+// Types:
+// There are the typesof typing a variable's name
+// camelCase, snake_case & PascalCase
 
 // Rules:
 // only $ and _  can be used in variable names.
