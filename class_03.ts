@@ -63,6 +63,7 @@
 // // when computer sees " " , bhaya hath na lgao. As It Is print karde
 // console.log(3>4) // " " (string) nahi hai? chlo bhai Computer ka jalwa
 // true
+
 // /* reserved : Words that computer is aware of, and we can't use them, as it would have double meaning for computer, if we use them as well. e.g:name  */
 // let a="Hunain" // computer ko nh pata 'a' kya h.
 
